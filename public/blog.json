@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/Z8B4Rgs/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+        "title": "The Enchanted Forest",
+        "author": "Emily Smith",
+        "author_img": "https://i.ibb.co/VpMXrp9/brooke-cagle-w-KOKid-NT14w-unsplash.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": "25 minutes",
+        "hash_tags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/hLYBSGc/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg",
+        "title": "Midnight Mysteries",
+        "author": "James Johnson",
+        "author_img": "https://i.ibb.co/zbVkb9c/kazi-mizan-61-Idm7r4-ERE-unsplash.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": "30 minutes",
+        "hash_tags": ["#mystery", "#suspense", "#thriller"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/Hx0NjDG/top-view-workspace-with-laptop-paper-clips.jpg",
+        "title": "Cooking Adventures",
+        "author": "Sarah Davis",
+        "author_img": "https://i.ibb.co/gzp4n25/tyler-nix-ZGa9d1a-4t-A-unsplash.jpg",
+        "posted_date": "2023-09-05",
+        "reading_time": "20 minutes",
+        "hash_tags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/ZRsx07Q/flat-lay-workstation-with-copy-space-tablet.jpg",
+        "title": "Tech Titans",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/dJMkxWR/petr-sevcovic-au-Cjz0gucr0-unsplash.jpg",
+        "posted_date": "2023-09-03",
+        "reading_time": "40 minutes",
+        "hash_tags": ["#technology", "#innovation", "#startups"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/HFXGGhX/domenico-loia-Eh-Tc-C9s-YXsw-unsplash.jpg",
+        "title": "Love in Bloom",
+        "author": "Jessica Lee",
+        "author_img": "https://i.ibb.co/wh9jYFM/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+        "posted_date": "2023-09-01",
+        "reading_time": "15 minutes",
+        "hash_tags": ["#romance", "#love", "#relationships"]
+    }
+]
